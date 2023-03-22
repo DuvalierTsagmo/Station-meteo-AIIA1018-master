@@ -1,8 +1,8 @@
 /*
-  Titre      : Rain Predicition
-  Auteur     : Anis Aliouachene
-  Date       : 17/03/2023
-  Description: un algorithme pour predire la probabilty de pluie
+  Titre      : prediction de pluie
+  Auteur     : Duvalier Tsagmo
+  Date       : 22/03/2023
+  Description: predire la pluie et la temperature de l'humiditer
   Version    : 0.0.1
 */
 
